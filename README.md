@@ -13,7 +13,8 @@ git clone https://github.com/laynz28/yt-dlp-webui.git
 step 2 :
 
 ```
-pip install requirements.txt
+pip install yt-dlp
+pip install gradio
 ```
 
 step 3 : 
